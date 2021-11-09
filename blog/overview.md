@@ -1,3 +1,3 @@
 # Blog
 
-General blog posts and articles
+Blog posts and articles

@@ -12,7 +12,7 @@ Most of them I've given away to colleagues or people at the hackspace, asking fo
 
 This was a laptop stand for a colleague, they were using a box to raise their laptop up but I thought this would look a little nicer.
 
-![Dovetailed laptop stand](images/tux.png)
+![Dovetailed laptop stand](./images/firstlaptopstand.png)
 
 There were some mistakes with the dovetails but it was a good learning experience, especially trying to correct said mistakes. Overall pretty happy, and my colleague was as well.
 
@@ -20,6 +20,6 @@ There were some mistakes with the dovetails but it was a good learning experienc
 
 This was an experiment to use up some scrap from another project and I was really happy. I made one or two mistakes cutting the wrong part on the bandsaw but the way the live edges work on the bottom of the laptop arm is a nice touch. I liked adding a bowtie inlay even though I think it was a little unnecessary.
 
-![Walnut laptop stand](images/walnutoffcutlaptopstand.png)
+![Walnut laptop stand](./images/walnutoffcutlaptopstand.png)
 
 I had previously made a stand similar to this out of a single piece of wood, but it suffered from a critical problem in that the grain direction created weaknesses that could lead to failuure. This way is a little more messy but isn't weak.

@@ -1,4 +1,4 @@
-# Firsta experiments with Kumiko
+# First experiments with Kumiko
 
 Kumiko is a Japanese art style which uses geometric patterns and interlocking pieces. From the small amount of research I've done there are 200+ individual patterns of Kumiko. It dates back from the 8th century CE and is strongly linked to the craft of Shogi sliding doors.
 
